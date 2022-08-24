@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Tim Sansone</h1>
-<h3 align="center">Full-Stack Web Developer | Software Engineer | Creative Problem Solver</h3>
+<h3 align="center">Full-Stack Web Developer | Software Engineer | React Developer | Creative Problem Solver</h3>
 
 - 🔭 I’m currently working on **Graduating from Bloom Institute of Technology**
 
