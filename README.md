@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Graduating from Bloom Institute of Technology**
 
-- 🌱 I’m currently learning **Applied Computer Science, Advanced Algorithms and Data Structures**
+- 🌱 I’m currently learning **Ruby on Rails** and I'm very excited about it!
 
 - 📫 How to reach me **tim.sansone@gmail.com**
 
