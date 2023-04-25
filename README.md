@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **TTI Success Insights as a Junior Software Engineer**
 
-- 🌱 I’m currently learning **Ruby on Rails, Typescript, and Docker** and I'm very excited about it!
+- 🌱 I’m currently learning **Ruby on Rails, Typescript, and Docker**
 
 - 📫 How to reach me **tim.sansone@gmail.com**
 
