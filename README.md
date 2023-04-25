@@ -1,9 +1,9 @@
 <h1 align="center">Hello! 👋, I'm Tim Sansone</h1>
-<h3 align="center">Software Engineer | Full-Stack Web Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Full-Stack Web Developer | Creative Problem Solver</h3>
 
 - 🔭 I’m currently working at **TTI Success Insights as a Junior Software Engineer**
 
-- 🌱 I’m currently learning **Ruby on Rails, Typescript, and Docker**
+- 🌱 I’m currently learning **Ruby on Rails, Typescript, and Docker** and I'm very excited about it!
 
 - 📫 How to reach me **tim.sansone@gmail.com**
 
